@@ -83,9 +83,9 @@ Base와 ZoraMainnet를 고른모습)
 
 ![image](https://github.com/user-attachments/assets/2ab1b3de-abec-4334-808f-866cb804a47f)
 
-**ETH일경우 Native, 아닐경우 '출발하는 네트워크'는 Collatral**    
+**ETH일경우 Native, 아닐경우 '출발하는 네트워크'는 Collateral**    
 **'도착하는 네트워크'는 Synthetic.**    
-예시의 경우 'base'의 토큰 타입을 물어보니까 Collatral, 엔터.
+예시의 경우 'base'의 토큰 타입을 물어보니까 Collateral, 엔터.
 
 ![image](https://github.com/user-attachments/assets/58b85936-ac73-4981-8493-111ab8d6ef90)
 이건 그냥 Y엔터
