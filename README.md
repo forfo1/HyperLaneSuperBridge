@@ -121,8 +121,8 @@ hyperlane warp deploy
 ```
 
 ![image](https://github.com/user-attachments/assets/5774dbe0-816e-45d3-b649-d7bf874c9994)    
-두번 묻는데 둘다 N, 엔터
-![image](https://github.com/user-attachments/assets/635ea4e7-e722-44e7-9764-be98fc0092d7)    
+두번 묻는데 둘다 N, 엔터    
+![image](https://github.com/user-attachments/assets/635ea4e7-e722-44e7-9764-be98fc0092d7)        
 Y, 엔터
 
 ![image](https://github.com/user-attachments/assets/b112f8d1-5d43-4309-890a-350551e1a28c)
