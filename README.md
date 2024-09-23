@@ -19,7 +19,7 @@
 (베이스 네트워크의 디젠인경우, 
 ![image](https://github.com/user-attachments/assets/6d52e0b1-7680-40fa-808c-654ec4745da9)
 ![image](https://github.com/user-attachments/assets/cafcfef9-1dc2-4790-a4ac-f4b06ff47cbe)
-미리 복사해두기)
+미리 복사해서 저장해두기)
 
 #### 지갑의 프빗키
 메인지갑말고 다른거로 쓰는게 좋을듯.
@@ -27,9 +27,9 @@
 ![image](https://github.com/user-attachments/assets/0e568dbd-6162-4e44-8310-f61d41bfa2ab)
 ![image](https://github.com/user-attachments/assets/5f737516-f62b-4037-be91-7143d3315f53)
 
-복사해두기.
+복사해서 저장해두기.
 
-저는 예시로 Base의 Degen을 ZoraMainnet으로 옮기는 브릿지를 만들어볼게요.
+*저는 예시로 Base의 Degen을 ZoraMainnet으로 옮기는 브릿지를 만들어볼게요.*
 
 ### 1. 설치
 
